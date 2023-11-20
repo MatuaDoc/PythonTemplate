@@ -5,6 +5,7 @@
             "extensions": [
                 "ms-python.python",
                 "ms-python.vscode-pylance",
+                "charliermarsh.ruff",
                 "eamodio.gitlens",
                 "GitHub.vscode-pull-request-github",
                 "yzhang.markdown-all-in-one",
@@ -36,6 +37,7 @@
                 "editor.wordWrap": "on",
                 "editor.fontSize": 16,
                 "editor.formatOnSave": true,
+                "editor.defaultFormatter": "charliermarsh.ruff",
                 "editor.formatOnSaveMode": "modificationsIfAvailable",
                 "editor.formatOnType": true,
                 "AREPL.telemetry": false,

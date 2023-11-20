@@ -10,7 +10,7 @@ This template includes:
 
 - Default code file (`main.py`)
 - Extensions to support Python development
-- Linters and formatters enabled to ensure code follows PEP-8
+- Ruff linter enabled to ensure code follows PEP-8
 - mypy integration to ensure code follows PEP-484
 - Pip Manager, to download external Python packages
 - Integration for diagrams.net (for files ending in `.drawio`)

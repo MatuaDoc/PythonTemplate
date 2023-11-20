@@ -1,4 +1,2 @@
-pycodestyle
-pydocstyle
-mypy
+ruff
 pytest
